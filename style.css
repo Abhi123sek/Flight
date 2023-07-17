@@ -1,0 +1,31 @@
+.c-item{
+    height: 900px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+}
+.logo{
+    height: 40px;
+    width: 55px;
+    padding: 0 12px;
+}
+.box{
+    background-color: #d3d6db;
+    margin-top: 50px;
+}
+.radio_btn{
+    font-size: 15px;
+}
+/*.container{
+    background-color: beige;
+    display: flex;
+    width: 300px;
+    height: 50px;
+    margin-top: 25px;
+} */
+.radio_div{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
